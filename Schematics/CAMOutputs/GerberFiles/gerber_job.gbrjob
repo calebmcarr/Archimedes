@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-09-25T13:54:05Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "single_varactor"
+        },
+        "Owner": "Caleb M Carr 1 <Caleb.M.Carr-1@ou.edu>",
+        "Size": {
+            "X": 54.28,
+            "Y": 49.52
+        }
+    }
+}
