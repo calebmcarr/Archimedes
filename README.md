@@ -26,7 +26,7 @@ simc_interface
 ```
 
 ## Authors
-* **[Caleb Carr](calebmcarr.github.io)** - Programmer and Documentation Author
+* **[Caleb Carr](https://calebmcarr.github.io)** - Programmer and Documentation Author
 ## License
 This project is licensed under the GNU GPL v3.  Can be viewed at [LICENSE.txt](LICENSE.txt)
 ## Acknowledgements
