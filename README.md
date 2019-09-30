@@ -6,7 +6,7 @@ These instructions will get a working copy of the project on your local machine.
 ### Prerequisites
 What you'll need:
 1. Matlab
-2. Installed Hardware (read the User Manual for more detail
+2. Installed Hardware (read the User Manual for more detail)
 
 Once you have these, progress to install and test run
 ## Installing and Running Interface
@@ -26,7 +26,7 @@ simc_interface
 ```
 
 ## Authors
-* **Caleb Carr** - Programmer and Documentation Author - [calebmcarr](https://github.com/calebmcarr)
+* **[Caleb Carr](calebmcarr.github.io)** - Programmer and Documentation Author
 ## License
 This project is licensed under the GNU GPL v3.  Can be viewed at [LICENSE.txt](LICENSE.txt)
 ## Acknowledgements
